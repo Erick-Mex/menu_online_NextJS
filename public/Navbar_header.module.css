@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+.titleMenu {
+  font-family: "Satisfy", cursive;
+  text-align: center;
+  margin: 1rem;
+}
+
+.linkTitle {
+  text-decoration: none;
+  color: black;
+}
+
+.linkTitle:hover {
+  color: black;
+}
